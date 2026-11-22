@@ -1,0 +1,10 @@
+{
+  "items": [
+    { "name": "latte-art-closeup", "prompt": "Square photo for a cozy neighbourhood café brand moodboard. Close-up of a heart latte art in a speckled hand-thrown ceramic cup on a light oak table, soft morning window light, linen napkin, shallow depth of field, warm natural colours." },
+    { "name": "storefront-dusk", "prompt": "Square photo for a cozy neighbourhood café brand moodboard. A small corner café at dusk, warm light glowing through large windows, a chalkboard sign by the door, a bicycle leaning on the wall, light rain on the pavement, calm cinematic mood." },
+    { "name": "pastry-flatlay", "prompt": "Square photo for a cozy neighbourhood café brand moodboard. Top-down flat lay of croissants, a cinnamon bun and a cardamom knot on parchment paper on an oak board, scattered flour, soft diffused daylight, warm muted palette." },
+    { "name": "barista-hands", "prompt": "Square photo for a cozy neighbourhood café brand moodboard. Close-up of a barista's hands pouring milk from a steel jug into a ceramic cup, steam rising, blurred café background with warm bokeh, documentary style, no face visible." },
+    { "name": "logo-badge-concepts", "prompt": "Square sheet of four original logo badge concepts for a cozy neighbourhood café called Little Oak, hand-drawn line style, a coffee cup and an oak leaf motif, warm cream background, earthy brown and sage green ink, clean presentation layout." },
+    { "name": "packaging-mockup", "prompt": "Square product photo of kraft paper coffee bean bags and a takeaway cup with a simple oak-leaf stamp logo, arranged on a linen cloth, soft side light, warm neutral colours, minimal styling." }
+  ]
+}

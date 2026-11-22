@@ -1,0 +1,33 @@
+{
+  "name": "ai-agent-to-google-flow",
+  "version": "1.0.0",
+  "description": "Let your AI agent (or you) generate images in Google Flow in paced, resumable batches through your own signed-in Chrome.",
+  "type": "module",
+  "bin": {
+    "flow-agent": "plugins/google-flow/skills/images/scripts/flow.mjs"
+  },
+  "files": [
+    "plugins/google-flow/skills/images/scripts/",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "flow": "node plugins/google-flow/skills/images/scripts/flow.mjs",
+    "check": "node --check plugins/google-flow/skills/images/scripts/flow.mjs && node -e \"for (const f of require('fs').readdirSync('plugins/google-flow/skills/images/scripts/lib')) require('child_process').execFileSync(process.execPath, ['--check', 'plugins/google-flow/skills/images/scripts/lib/' + f], { stdio: 'inherit' })\""
+  },
+  "dependencies": {
+    "playwright-core": "^1.63.0"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "keywords": ["google-flow", "nano-banana", "image-generation", "claude-code", "claude-code-plugin", "ai-agent", "playwright"],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ariantabib/AI-Agent-to-Google-Flow.git"
+  },
+  "homepage": "https://github.com/Ariantabib/AI-Agent-to-Google-Flow#readme",
+  "bugs": "https://github.com/Ariantabib/AI-Agent-to-Google-Flow/issues",
+  "license": "MIT",
+  "author": "Ariantabib"
+}

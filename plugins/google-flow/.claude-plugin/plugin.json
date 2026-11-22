@@ -1,0 +1,13 @@
+{
+  "name": "google-flow",
+  "version": "1.0.0",
+  "description": "Batch image generation in Google Flow (Nano Banana) through your own signed-in Chrome: asks your project setup once, pastes prompts 10 at a time, downloads each batch, retries failures, builds a gallery.",
+  "author": {
+    "name": "Ariantabib",
+    "url": "https://github.com/Ariantabib"
+  },
+  "homepage": "https://github.com/Ariantabib/AI-Agent-to-Google-Flow",
+  "repository": "https://github.com/Ariantabib/AI-Agent-to-Google-Flow",
+  "license": "MIT",
+  "keywords": ["google-flow", "nano-banana", "image-generation", "batch", "playwright", "concept-art"]
+}
