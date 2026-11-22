@@ -1,0 +1,11 @@
+{
+  "topic": "Cozy neighbourhood café brand: warm, handmade, morning light, speckled ceramics, oak and linen",
+  "outputDir": "./flow-images",
+  "flowProject": "latest",
+  "aspectRatio": "1:1",
+  "model": "Nano Banana 2.1",
+  "quality": null,
+  "batchSize": 10,
+  "maxAttempts": 3,
+  "cdpPort": 9333
+}
